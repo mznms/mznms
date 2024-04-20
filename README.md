@@ -1,4 +1,4 @@
-ᴴᵉˡˡᵒ (っ*’ᵕ’)’ᵕ’*c)♡
+Hello (っ*’ᵕ’)’ᵕ’*c)♡
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
