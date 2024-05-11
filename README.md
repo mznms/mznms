@@ -4,17 +4,29 @@ Hello (っ*’ᵕ’)’ᵕ’*c)♡
   <picture>
     <source
       srcset="https://github-readme-stats-blond-nu-41.vercel.app/api?username=mznms&card_width=712&rank_icon=janken&show_icons=true&border_radius=9.0&theme=modus-vivendi"
-      media="(prefers-color-scheme: dark)"
+      media="(min-width: 1024px), (prefers-color-scheme: dark)"
       height=200
       align="center"
     />
     <source
       srcset="https://github-readme-stats-blond-nu-41.vercel.app/api?username=mznms&card_width=712&rank_icon=janken&show_icons=true&border_radius=9.0&theme=modus-operandi"
+      media="(min-width: 1024px), (prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      height=200
+      align="center"
+    />
+    <source
+      srcset="https://github-readme-stats-blond-nu-41.vercel.app/api?username=mznms&rank_icon=janken&show_icons=true&border_radius=9.0&theme=modus-vivendi"
+      media="(prefers-color-scheme: dark)"
+      height=200
+      align="center"
+    />
+    <source
+      srcset="https://github-readme-stats-blond-nu-41.vercel.app/api?username=mznms&rank_icon=janken&show_icons=true&border_radius=9.0&theme=modus-operandi"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       height=200
       align="center"
     />
-    <img height=200 align="center" src="https://github-readme-stats-blond-nu-41.vercel.app/api?username=mznms&card_width=712&rank_icon=janken&show_icons=true&border_radius=9.0&theme=modus-operandi" />
+    <img height=200 align="center" src="https://github-readme-stats-blond-nu-41.vercel.app/api?username=mznms&rank_icon=janken&show_icons=true&border_radius=9.0&theme=modus-operandi" />
   </picture>
 </a>
 <br>
