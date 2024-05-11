@@ -3,7 +3,7 @@ Hello (っ*’ᵕ’)’ᵕ’*c)♡
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source
-      srcset="https://github-readme-stats-blond-nu-41.vercel.app/api?username=mznms&card_width=602&rank_icon=janken&show_icons=true&border_radius=9.0&theme=modus-vivendi"
+      srcset="https://github-readme-stats-blond-nu-41.vercel.app/api?username=mznms&card_width=604&rank_icon=janken&show_icons=true&border_radius=9.0&theme=modus-vivendi"
       media="(min-width: 1054px) and (prefers-color-scheme: dark)"
       align="center"
     />
